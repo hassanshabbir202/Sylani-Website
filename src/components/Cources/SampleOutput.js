@@ -1,0 +1,7 @@
+const cources = [
+    {img:"https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/12/23062235/frontend-web-development.jpg",text:"Frontend Development", readmore:"https://en.wikipedia.org/wiki/Front-end_web_development",def:"Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, ",tutorial:"https://www.youtube.com/playlist?list=PLare8X3WDswGilQ_3pBjsc8tBCMm00ocK"},
+    {img:"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220612001912/Back-End-Developer-Roadmap-2022.jpg",text:"Backend Development",readmore:"https://en.wikipedia.org/wiki/Back_end",def:"Back end (computing), the data access layer in software architecture " , tutorial:"https://www.youtube.com/watch?v=okIeWy8SZmE&t=1199s"},
+    {img:"https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg",text:"Full Stack Development",readmore:"https://en.wikipedia.org/wiki/Web_development",def:"Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1]  ",tutorial:"https://www.youtube.com/playlist?list=PLWX9NnKvk9DHgSU7Q8vSyDWSvUwrOPpdN"},
+]
+
+export default cources

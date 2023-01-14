@@ -1,0 +1,11 @@
+.testWidth{
+   width: 70%;
+}
+@media (max-width:740px) {
+.testWidth{
+   width: 100%;
+}
+}
+ .contact-form{
+   margin-left: 7vw;
+  }

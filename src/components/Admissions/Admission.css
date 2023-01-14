@@ -1,0 +1,27 @@
+@media (max-width:1200px) {
+    .test{
+        width: 200%;
+    }
+}
+@media (max-width:1200px) {
+  
+}
+.formheading{
+    font-size: 40px;
+}
+
+@media (max-width:590px) {
+    .main_form{
+      margin-left: -8vw;
+    }
+    .cont{
+       margin-left: -22vw;
+    }
+    .test{
+        width: 250%;
+    }
+    .formheading{
+        margin-left: 20vw;
+        font-size: 18.5px;
+    }
+}

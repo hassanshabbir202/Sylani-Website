@@ -1,0 +1,20 @@
+.btn-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 2vh;
+}
+section{
+  margin-left: 2vw;
+}
+.left-arrow{
+  background-color: hsl(216deg 98% 52%);
+  color: #fff;
+}
+.right-arrow{
+  background-color: hsl(216deg 98% 52%);
+  color: #fff;
+}
+.explore-cources{
+  background-color: hsl(216deg 98% 52%);
+  color: #fff;
+}
